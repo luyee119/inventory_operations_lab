@@ -55,7 +55,7 @@ python -m streamlit run app.py
 
 A local browser page usually opens at **http://localhost:8501**. Stop it with `Ctrl+C` in the terminal.
 
-## Demo steps for an interview / 面试演示
+## Demo steps / 演示
 
 1. Open the app: the bundled *fictional* inventory is already loaded.
 2. Select **Lighting Inventory & Replenishment**; show the lighting-only stock chart and stock value.
@@ -114,12 +114,7 @@ No persistent database, shipping integrations, user accounts, purchase-order tra
 ```bash
 python -m pip install pytest
 python -m pytest -q
-```
-
-## Suggested honest interview description / 面试描述
-
-"I built an independent Python and Streamlit inventory-planning prototype inspired by my hands-on inventory experience. It reads synthetic stock-movement records, calculates stock on hand and historical outbound demand, and proposes rule-based replenishment quantities. It is an educational MVP, not a system deployed at company."
-
+``
 
 ## Returns management expansion / 退货管理扩展
 
