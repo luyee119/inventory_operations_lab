@@ -1,0 +1,9 @@
+sku,product_name,category,unit_cost,initial_stock,lead_time_days,safety_stock,target_cover_days
+GL-001,Display Light Bar 30in,Display Lighting,32.59,159,12,12,18
+GL-002,LED Strip Kit 36in,Display Lighting,27.85,79,16,14,13
+GL-003,Display Light Bar 40in,Display Lighting,19.82,149,16,28,15
+GL-004,LED Strip Kit 48in,Display Lighting,13.96,170,16,19,13
+GL-005,Display Power Supply,Accessories,14.53,51,15,20,13
+GL-006,Magnetic Rail Set,Accessories,33.05,185,9,23,18
+GL-007,Cable Connector Set,Accessories,7.87,88,17,18,17
+GL-008,Flexible Light Bar,Display Lighting,13.57,108,14,21,10
